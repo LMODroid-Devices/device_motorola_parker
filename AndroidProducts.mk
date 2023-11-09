@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_parker.mk
+    $(LOCAL_DIR)/lmodroid_parker.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_parker-eng \
-    lineage_parker-user \
-    lineage_parker-userdebug
+    lmodroid_parker-eng \
+    lmodroid_parker-user \
+    lmodroid_parker-userdebug
